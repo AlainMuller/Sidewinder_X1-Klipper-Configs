@@ -7,3 +7,7 @@ This is my Sidewinder X1 configuration :
 - BL Touch
 
 https://cults3d.com/en/3d-model/tool/5015-artillery-sidewinder-x1-dragon-mosquito-volcano-combo-duct
+
+I use fluiddpi project on RPi 3 :
+
+https://github.com/cadriel/FluiddPI
