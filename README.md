@@ -1,4 +1,4 @@
-# Clanks-Klipper-Configs
+# Klipper-Configs Sidewinder X1
 Klipper config files for use with Klipper firmware
 
 This is my Sidewinder X1 configuration :
